@@ -1,30 +1,40 @@
 <h1 align="center">Hey there 👋, I'm Sourish Dey</h1>
-<h3 align="center">Full-Stack Developer | Building cool things with code 🚀</h3>
+<h3 align="center">Full-Stack Developer | Turning ideas into reality 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Frontend+Capable,+Backend+Focused;Always+learning+new+things!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Capable,+Backend+Focused;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-- 🎓 I’m currently pursuing a degree in Electronics and Communication Engineering (ECE)
-- 🛠️ Tools I love: `VS Code`, `Tailwind`, `Express`, `Prisma`, `ShadCN`
+- 🎓 Pursuing **Electronics and Communication Engineering (ECE)**  
+- 💻 Passionate about **building scalable full-stack applications**  
+- 🛠️ Tools I love: `VS Code` · `Tailwind CSS` · `Express` · `Prisma` · `ShadCN/UI`  
 - 📬 Reach me at: **sourish19z@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack  
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,tailwind,git,prisma,docker)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,tailwind,git,prisma,docker" alt="Tech Stack" />
+</p>
 
 ---
 
-<div>
+### 📊 GitHub Stats  
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sourish19.sourish19&)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourish19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Sourish's Top Languages" />
+</p>
 
-![wakatime](https://wakatime.com/badge/user/78a841c8-fa85-4fb5-9953-93be3527f4e8.svg)
+---
 
-</div>
+### 🌍 Visitor Count & Coding Activity  
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sourish19.sourish19" alt="Visitor Count" />
+  <img src="https://wakatime.com/badge/user/78a841c8-fa85-4fb5-9953-93be3527f4e8.svg" alt="Wakatime Stats" />
+</p
