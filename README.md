@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourish19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Sourish's Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sourish19&theme=tokyonight&hide_border=false" alt="Sourish's Top Languages" />
 </p>
 
 ---
